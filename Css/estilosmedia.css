@@ -1,0 +1,41 @@
+.footer__container, .map, 
+
+
+.hero__button {
+    width: 235px;
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+
+/* FOOTER MEDIA */
+.footer__contacto>p {
+    font-size: 2rem;
+    margin-left: 10px;
+}
+
+.form {
+    flex-direction: column;
+    margin-left: 10px;
+    align-self: flex-end;
+}
+
+.input__class {
+    width: 200px;
+}
+
+.input__textarea {
+    width: 300px;
+}
+
+.map {
+    flex-direction: column;
+    width: 95%;
+    margin-right: 0px;
+    margin-top: 40px;
+}
+
